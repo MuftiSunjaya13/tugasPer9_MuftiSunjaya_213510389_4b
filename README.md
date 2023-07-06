@@ -1,4 +1,9 @@
 # mufti-todo
+```
+NAMA  : MUFTI SUNJAYA
+NPM   : 213510389
+KELAS : 4B
+```
 
 ## Project setup
 ```
